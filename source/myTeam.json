@@ -1,23 +1,14 @@
 [
   {
     "id": "1",
-    "nama": "Fransiskus A Tekege",
-    "nim": "215410072",
-    "kelas": "IF-2",
-    "gambar": "https://raw.githubusercontent.com/Fransis96/IBD-CLOUD/main/photos/myPic.png"
+    "img_src": "https://raw.githubusercontent.com/Fransis96/IBD-CLOUD/main/photos/myPic.png"
   },
   {
     "id": "2",
-    "nama": "Ridwan Makatita",
-    "nim": "205410201",
-    "kelas": "IF-2",
-    "gambar": "https://raw.githubusercontent.com/Fransis96/IBD-CLOUD/main/photos/xProfile.jpg"
+    "img_src": "https://raw.githubusercontent.com/Fransis96/IBD-CLOUD/main/photos/xProfile.jpg"
   },
   {
     "id": "3",
-    "nama": "Fiqri Abdi",
-    "nim": "245410079",
-    "kelas": "IF-2",
-    "gambar": "https://raw.githubusercontent.com/Fransis96/IBD-CLOUD/main/photos/img007.jpg"
+    "img_src": "https://raw.githubusercontent.com/Fransis96/IBD-CLOUD/main/photos/img007.jpg"
   }
 ]
