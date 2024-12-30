@@ -2,12 +2,20 @@
   {
     "id":1,
     "name": "Fransiskus A Tekege",
-    "nim":, "215410072",
+    "nim": "215410072",
+    "title": "Anggota 1",
     "quotes": "I dont care whos doing batter than me, coz I'm doing better than I was last year. I'ts me agains me."
   },{
     "id": 2,
     "name": "Fiqri Abdi",
     "nim": "245410097",
+    "title": "Anggota 2",
     "quotes": "Semoga semesta memperlakukan kita dengan baik."
+  },{
+    "id": 3,
+    "name": "Ridwan Makatita",
+    "nim": "1234",
+    "title": "Anggota 3",
+    "quotes": "Jangan pernah mengatakan sesuatu yang buruk terhadap diri sendiri, bahkan dalam bercanda. Karena alam bawa sadar akan meresponnya sebagai sugesti."
   }
 ]
