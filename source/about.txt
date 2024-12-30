@@ -1,1 +1,2 @@
-Ini adalah aplikasi sederhana yang kita buat dengan menyesuaikan kemampuan laptop kita dimana tidak mampu membuat aplikasi yang lebih kompleks dari ini. Salam koding :)
+Ini adalah aplikasi sederhana yang kita buat dengan menyesuaikan kemampuan laptop kita dimana tidak mampu membuat aplikasi yang lebih kompleks dari ini. 
+Salam koding :)
