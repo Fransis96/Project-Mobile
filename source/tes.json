@@ -1,15 +1,18 @@
 [
   {
+    "id": 1,
     "title": "Anggota 1",
     "nim": "215410072",
     "name": "Fransiskus A Tekege",
     "quote": "I dont care whos doing batter than me, coz I'm doing better than I was last year. I'ts me agains me."
   },{
+    "id": 2,
     "title": "Anggota 2",
     "nim": "245410097",
     "name": "Fiqri Abdi",
     "quote": "Semoga semesta memperlakukan kita dengan baik."
   },{
+    "id": 3,
     "title": "Anggota 3",
     "nim": "205410201",
     "name": "Ridwan Makatita",
